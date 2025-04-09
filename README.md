@@ -68,7 +68,7 @@ A Next.js application that converts natural language queries into SQL and execut
 - Frontend: Next.js (React Framework)
 - AI Model: Google Gemini API (Doğal Dil -> SQL çevirisi için)
 - Backend: Next.js API Routes
-- Veritabanı: PostgreSQL
+- Veritabanı: Microsoft SQL Server
 - Veri Görselleştirme: Chart.js ve react-chartjs-2
 
 ## Kullanım
